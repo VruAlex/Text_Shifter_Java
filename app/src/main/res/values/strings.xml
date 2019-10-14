@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Text_Shifter</string>
+
+
+    <!-- Note down -->
+    <string name="hello">Hello guys!</string>
+    <string name="Hint">Type_name</string>
+    <string name="change">Change Name</string>
+    <string name="Transfer_text_to_other_activity">Open second activity And transfer Text\n To second Activity</string>
+
+</resources>
